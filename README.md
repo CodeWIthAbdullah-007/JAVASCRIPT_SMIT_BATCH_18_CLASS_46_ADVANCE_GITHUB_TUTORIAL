@@ -102,4 +102,6 @@ This project is created for **educational purposes under the SMIT training progr
 
 ---
 
-💻 Happy Coding & Learning GitHub!
+💻 Happy Coding & Learning GitHub!git add README.md
+git commit -m "Add README file"
+git push
